@@ -1,3 +1,7 @@
 TP4 Test des merges et des conflits.
 
+
 Ajout pour la branche master
+
+Ajout pour la branche new_branch
+
